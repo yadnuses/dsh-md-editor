@@ -1,0 +1,5 @@
+# dsh-md-editor bundle patch: mount the plugin row.
+# 宿主半注册 /md-editor 回环路由，浏览器半往文档预览头部挂「编辑」按钮。
+- insert:
+    - id: md-editor
+      name: dsh-md-editor
