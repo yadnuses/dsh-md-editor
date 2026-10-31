@@ -6,6 +6,8 @@
 ![Platform](https://img.shields.io/badge/platform-DeepSeek%20Harness%200.2.x-4d6bfe)
 ![Type](https://img.shields.io/badge/type-community%20plugin-9aa0a8)
 
+[English](README.en.md) | **中文**
+
 ![演示](docs/demo.gif)
 
 > 完整演示视频：[docs/demo.mp4](docs/demo.mp4)（30 秒）
@@ -143,6 +145,7 @@ dsh-md-editor/
 │   ├── index.js          # 宿主端：/md-editor 回环路由（read / write / health）
 │   └── client.js         # 浏览器端：头部按钮 + 原地编辑器
 ├── docs/                 # 演示视频、动图、截图
+├── README.en.md          # English README
 └── README.md
 ```
 
